@@ -1,2 +1,2 @@
-o world";
-    // string s(a, 4);
+
+    // rakib->age = bakib->age;
